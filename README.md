@@ -1,2 +1,27 @@
-# bank-management-system-sql
-🚀 A comprehensive Bank Management System developed using PostgreSQL to demonstrate strong database design and SQL skills. This project includes normalized database schemas, CRUD operations, joins, views, stored procedures, triggers, and transaction management, reflecting real-world banking scenarios and best practices.
+# 🏦 Bank Management System using PostgreSQL
+
+A Bank Management System developed using **PostgreSQL** to simulate real-world banking operations. This project demonstrates database design, relational modeling, and SQL programming through practical implementation.
+
+## 🛠️ Tech Stack
+
+* PostgreSQL
+* SQL
+* pgAdmin 4
+
+## 📂 Repository Includes
+
+* `schema.sql`
+* `sample_data.sql`
+* `queries.sql`
+* `Bank_Management_System_Report.pdf`
+
+## 📚 SQL Concepts
+
+* CRUD Operations
+* Joins
+* Views
+* Functions
+* Triggers
+* Transactions
+* Constraints
+
